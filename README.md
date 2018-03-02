@@ -1,2 +1,1 @@
-# construction-bid-estimator
-Bid estimator forSmall  Construction Companies
+# This is is estimator for Small  Construction Companies. It allows them to enter in data regarding both the home they are building as well as the expected cost of each item in the home's construction. This can be done on a price-per-square-foot basis or on a lump sum per item basis.
